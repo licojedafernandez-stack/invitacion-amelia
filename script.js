@@ -5,12 +5,12 @@ const EVENT = Object.freeze({
   displayDate: "24 · 10 · 2026",
   longDate: "Sábado 24 de octubre de 2026",
   time: "16:00",
-  venue: "La Chacra",
-  location: "Parcela A77 · Camino 1.2B, Viedma, Río Negro",
+  venue: "Los Aromos",
+  location: "Av. Francisco de Viedma 1668-1626, Viedma, Río Negro",
   rsvpDeadline: "22 de octubre",
   whatsappNumber: "542920483904",
   whatsappMessage: "Hola, confirmo mi asistencia al primer cumpleaños de Amelia",
-  mapUrl: "https://www.google.com/maps?q=-40.81933292868327,-63.089263321043006",
+  mapUrl: "https://www.google.com/maps?q=-40.820168, -62.971690",
 });
 
 const setText = (id, value) => {
